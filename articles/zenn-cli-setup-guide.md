@@ -3,7 +3,7 @@ title: "Zenn CLIで環境構築から記事公開まで"
 emoji: "👣"
 type: "tech"
 topics: ["zenn", "nodejs", "github", "cli"]
-published: ture
+published: true
 ---
 
 ## この記事でできるようになること
